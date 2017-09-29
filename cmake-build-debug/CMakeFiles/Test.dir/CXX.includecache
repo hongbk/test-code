@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hongbk/Desktop/Test/HeapSort.cpp
+HeapSort.h
+/Users/hongbk/Desktop/Test/HeapSort.h
+stdio.h
+-
+
+/Users/hongbk/Desktop/Test/HeapSort.h
+
+/Users/hongbk/Desktop/Test/test.cpp
+
+/Users/hongbk/Desktop/Test/test2.cpp
+
