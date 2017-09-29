@@ -3,5 +3,5 @@ project(Test)
 
 set(CMAKE_C_STANDARD 99)
 
-set(SOURCE_FILES main.c HeapSort.cpp HeapSort.h test.cpp test2.cpp)
+set(SOURCE_FILES main.c)
 add_executable(Test ${SOURCE_FILES})
